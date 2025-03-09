@@ -1,2 +1,1 @@
-# BadUsb-
-BadUSB, on DigiSpark
+# BadUsb-DigiSpark
